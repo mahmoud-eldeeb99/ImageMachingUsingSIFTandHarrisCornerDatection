@@ -27,9 +27,9 @@
 
 ### [3] Image Matching 
 #### Original image
-![alt text](Original Image.jpg)
+![alt text](OriginalImage.jpg)
 #### Rotated image
-![alt text](Rotated Image.jpg)
+![alt text](RotatedImage.jpg)
 #### Maching Result image
 ![alt text](FinalMatchingImage.jpg)
 ----
